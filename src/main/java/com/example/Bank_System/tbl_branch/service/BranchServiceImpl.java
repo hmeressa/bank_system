@@ -1,5 +1,5 @@
 package com.example.Bank_System.tbl_branch.service;
-import com.example.Bank_System.tbl_bank.CreateBranchRequest;
+import com.example.Bank_System.tbl_branch.CreateBranchRequest;
 
 import com.example.Bank_System.tbl_bank.UpdateBranchRequest;
 import com.example.Bank_System.tbl_branch.BranchInterface;

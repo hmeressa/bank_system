@@ -1,5 +1,5 @@
 package com.example.Bank_System.tbl_branch;
-import com.example.Bank_System.tbl_bank.CreateBranchRequest;
+import com.example.Bank_System.tbl_branch.CreateBranchRequest;
 import com.example.Bank_System.tbl_bank.UpdateBranchRequest;
 import com.example.Bank_System.tbl_branch.BranchInterface;
 import org.springframework.web.bind.annotation.*;

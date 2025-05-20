@@ -1,4 +1,4 @@
-package com.example.Bank_System.tbl_bank;
+package com.example.Bank_System.tbl_branch;
 
 import lombok.Getter;
 
